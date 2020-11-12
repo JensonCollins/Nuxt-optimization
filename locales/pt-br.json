@@ -1,0 +1,258 @@
+{
+    "navs": {
+        "home": {"title": "HOME", "link": "/"},
+        "blog": {"title": "BLOG", "link": "blog"},
+        "contact": {"title": "CONTATO", "link": "contact"},
+        "privacy": {"title": "POLITICA PRIVACIDADE", "link": "privacidade"}
+    },
+    "homepage": {
+        "seo": {
+            "title": "Aprenda a Influenciar Comportamento do Consumidor com ZMOT",
+            "description": "Acelere os resultados do seu Marketing Digital influenciando o Comportamento do Consumidor. Aprenda ZMOT agora, de forma rápida e prática."
+        },
+        "banner": {
+            "header": "ZMOT: a chave para Transformação Digital",
+            "text": "Framework para Hackear o Comportamento do Consumidor com Marketing Digital"
+        },
+        "why_do_you_need_ZMOT": {
+            "header": "Por que você precisa do ZMOT?",
+            "text1": "Entender o Comportamento do Consumidor e auxiliar seu cliente durante a Jornada de Compra deve ser sua prioridade número um para construir um negócio de sucesso. Seja você um profissional de marketing, ou um empreendedor, sua comunicação será muito mais eficiente se entender alguns princípios.",
+            "text2": "",
+            "text3": "",
+            "text4": "",
+            "text5": "",
+            "category_1_header": "Relevância",
+            "category_1_text": "O consumidor moderno utiliza o Google como principal ferramenta para buscar informações sobre produtos, preços e opiniões de outras pessoas. Segundo o Statcounter, 92% de todas as pesquisas no mundo são feitas pelo Google Search. Rankear na primeira posição deve ser seu foco principal, já que você estará presente no exato momento em que as pessoas estarão interessadas no seu produto ou serviço.",
+            "category_2_header": "Reviews",
+            "category_2_text": "Os Reviews Online são o novo Boca a Boca. Por causa da internet, alcança muito mais pessoas, e de forma mais rápida. O Boca a Boca Digital é uma conversa de uma-para-milhões de pessoas, e não mais de uma-para-uma. A experiência de outras pessoas influencia diretamente sua decisão de comprar, ou não comprar. ",
+            "category_3_header": "Mobile",
+            "category_3_text": "Os consumidores tem controle total, eles encontram e compartilham informações a sua própria maneira e tempo. Os smartphones são nossa ferramenta diária de conectividade, produtividade, entretenimento e porque não, de fazer compras. Se você não possui um site rápido, e adaptado para mobile, você não é ninguém."
+        },
+        "specialist": {
+            "header": "Os Especialistas",
+            "text": "ZMOT é coisa de gente grande. Veja o que os maiores especialistas mundiais em Marketing Digital tem falado sobre o assunto.",
+            "slide_1_text": "Os consumidores pesquisam as informações na internet antes de comprar.",
+            "slide_2_text": "É assim que os consumidores vivem, aprendem e tomam decisões",
+            "slide_3_text": "Marketing Digital é sobre entregar o conteúdo certo no momento certo",
+            "slide_4_text": "Na internet é sempre mais barato, rápido e eficiente fazer qualquer coisa",
+            "slide_5_text": "Nosso trabalho é entender o que os clientes desejam comprar e ajudar-los"
+        },
+        "services": {
+            "header": "Como podemos te ajudar?",
+            "sub_header": "Nos estamos aqui para ajudar você a entender o ZMOT e aplicá-lo no seu dia a dia. Não importa o tamanho do seu bolso, ou disponibilidade de tempo, teremos sempre uma solução para ajudá-lo.",
+            "service_1_header": "Auditoria ZMOT",
+            "service_1_description": "Está interessado sobre ZMOT e Comportamento do Consumidor, mas não tem idéia de como começar? Ou talvez queira a ajuda de um especialista para acelerar as coisas? Compartilhe seu website conosco e nos deixe surpeendê-lo com um plano para impulsionar seu Negócio Digital.",
+            "service_2_header": "Palestras & Eventos",
+            "service_2_description": "Deseja encantar sua platéia com um conteúdo inovador, dinâmico e que fará as pessoas aplaudirem de pé? Nossas apresentações baseadas em storytelling e performance ajudam pessoas a alcançar resultados outrora tidos como impossíveis.",
+            "service_3_header": "Cursos Online",
+            "service_3_description": "Aprenda tudo sobre ZMOT com especialista no assunto que tem ajudado suas organizações a alcançar resultados surpreendentes. Com nossos cursos online você poderá aprender e implementar o ZMOT no seu próprio ritmo, fazendo quantas vezes quiser. Você tem controle total sobre seu aprendizado.",
+            "get_a_quote": "Saber Mais"
+        },
+        "what_say": {
+            "header": "Opiniões sobre o ZMOT INSTITUTE",
+            "text": "Veja o que pessoas comuns que passaram nos conhecer estão falando sobre o que aprenderam.",
+            "talking_1": "Obrigado por compartilhar esse conteúdo com a comunidade. A partir de hoje vou prestar mais atenção no que foi exposto no texto.​",
+            "talking_2": "Melhor começar aplicar o aprendizado do ZMOT o quanto antes... Parabéns por compartilhar seu conhecimento e nos ajudar a melhorar...",
+            "talking_3": "Muito bom conteúdo, obrigado por compartilhar conosco este excelente conteúdo."
+        },
+        "blog": {
+          "text": "Quer se manter atualizado sobre ZMOT e Comportamento do Consumidor, através de conteúdos exclusivos e totalmente gratuítos? Não deixe de acessar nossos materiais super completos e cheios de dicas práticas de como acelerar seus negócios.",
+          "title_1": "",
+          "title_2": "",
+          "title_3": "",
+          "read_more": "Ler Conteúdo"
+        }
+    },
+    "contact": {
+        "seo": {
+            "title": "Entre em contato com os especialistas do ZMOT Institute",
+            "description": "Entre em contato Agora! Envie suas dúvidas e te ajudaremos a implementar o ZMOT. Não importa o tamanho do seu bolso, sempre teremos uma solução."
+        },
+        "banner": {
+            "header": "Converse Agora com Especialistas Em ZMOT",
+            "text": "Email ou Live Chat, você escolhe a melhor opção",
+            "button": {
+                "send_email": "Enviar Email",
+                "access_live_chat": "Acessar Live Chat"
+            }
+        },
+        "form": {
+            "send_email": "Enviar Email",
+            "contact": "Contacto",
+            "text": "Tem alguma opinião, dúvida ou mesmo sugestão de conteúdo? \nNão perca tempo e nos envie uma mensagem.",
+            "Email": "Email",
+            "Name": "Nome",
+            "Surename": "Sobrenome"
+        }
+    },
+    "news_letter": {
+        "header": "Acompanhe o ZMOT INSTITUTE",
+        "text": "Fique ligado em todas as novidades sobre o ZMOT, Comportamento do Consumidor e Marketing Digital. Increva-se na nossa newsletter mensal.",
+        "subscribe": "Inscrever-se na News",
+        "subscribe_ellipse": "Inscrever-se",
+        "placeholder": "Digite seu email"
+    },
+    "cookie": {
+        "text_1": "Nós usamos informações pessoais em nosso site para melhorar significativamente sua experiência de uso. Por favor clique em ACEITAR para que possamos melhor servi-lo.Para maiores informações por favor acesse nossa página de ",
+        "text_2": "Política de Privacidade.",
+        "text_3": "",
+        "link": "/privacidade",
+        "accept": "ACEITAR"
+    },
+    "footer": {
+        "text": "Queremos ajudar as pessoas a entender seus clientes e fazer seus negócios crescerem.",
+        "services": {
+            "text": "Serviços"
+        },
+        "knowledge": {
+            "text": "Conhecimento"
+        },
+        "legal": {
+            "text": "Legal"
+        },
+        "privacy_policy": {
+            "text": "Política de Privacidade"
+        },
+        "blog": "Blog",
+        "newsletter": "Newsletter"
+    },
+    "blog": {
+        "seo": {
+            "title": "Acesse o Blog do ZMOT Institute e Aprenda com os Melhores",
+            "description": "O melhor lugar para você aprender tudo sobre o ZMOT Framework e temas relacionados a Comportamento do Consumidor. Acesse Agora!"
+        },
+        "add_comment" : {
+        "title": "Add a Comment",
+        "info": "Your email address will not be published. Required fields are marked *",
+        "save": "Save my name, email, and website in this browser for the next time I comment",
+        "submit": "SUBMIT"
+      }
+    },
+    "zmot_audit": {
+        "seo": {
+            "title": "Use ZMOT para Hackear o Comportamento do Consumidor",
+            "description": "Entenda a necessidade dos seus clientes e entregue a mensagem correta no momento correto. Aprenda a hackear o Comportamento do Consumidor com ZMOT"
+        },
+        "header": "Acelere Resultados com ZMOT",
+        "text_1": "ZMOT é um Framework criado pelo Google para descrever como as pessoas se comportam durante a Jornada de Compra.",
+        "text_2": "Negócios de sucesso entedem as ncessidades de seus clientes e resolvem esses problemas. Identificando como seu cliente pesquisa informações, faz comparações, barganha preço e toma uma decisão de compra, você poderá enviar a mensagem certa, na hora certa.",
+        "text_3": "Os especialistas do ZMOT INSTITUTE irão ajudá-lo a identificar as pistas digitais deixadas por seus clientes, e com isso criar um planejamento de Marketing Digital utilizando as práticas usadas pelas melhores empresas do mundo.",
+        "submit": "Quero Receber Contato"
+    },
+    "lectures_events": {
+        "seo": {
+            "title": "Encante a Platéia do seu Evento com uma Palestra de ZMOT",
+            "description": "Leve o ZMOT para o seu evento e encante sua audiência. Nossos +15 anos de experiência palestrando farão as pessoas aplaudirem de pé. Grátis para Estudantes."
+        },
+        "header": "Encante Sua Platéia com ZMOT",
+        "text_1": "Se você está organizando um evento e precisa de um tema super atual e relevante, com um storytelling envolvedor, nossas Palestras sobre ZMOT e Comportamento do Consumidor são o que você precisa. ",
+        "text_2": "Seja em um evento presencial ou online, os participantes do seu evento vão te agradecer por ajudá-los a entender como o ZMOT pode melhorar os resultados de forma exponencial.",
+        "text_3": "Não importa o tamanho do seu evento, nós temos uma solução para você. Vamos juntos evangelizar sobre ZMOT.",
+        "submit": "Quero Receber Contato"
+    },
+    "online_courses" : {
+        "seo": {
+            "title": "Curso Online de ZMOT. Aprenda no seu próprio ritmo",
+            "description": "Aprenda ZMOT online e seja um profissional de alto nível. Inscreva-se agora e ganhe 1 hora de mentoria gratuita. Você no controle do seu tempo e conhecimento."
+        },
+        "header": "Mergulhe Fundo no ZMOT",
+        "text_1": "Cursos Online são a solução perfeita se você quer aprender um conteúdo a fundo, mas tem pouco disponibilidade de agenda.",
+        "text_2": "Preparamos um curso completo e totalmente prático sobre ZMOT, que não irá apenas ensiná-lo sobre conceitos, mas sim como implementar os fundamentos, quais ferramentas usar bem como as ações que as empresas que mais crescem no mundo estão usando.",
+        "text_3": "Você terá acesso a materiais exclusivos e também a 1 hora de mentoria online com um dos especialistas do ZMOT INSTITUTE. Ative sua Mentalidade de Crescimento.",
+        "submit": "Aprender ZMOT Online",
+        "thank_you_title": "Obrigado pelo contato!",
+        "thank_you_message": "Ficamos contentes com seu interesse pelo ZMOT Institute. Entraremos em contato em breve!"
+    },
+    "placeholder": {
+      "email": "Email",
+      "name": "Nome",
+      "surname": "Sobrenome ",
+      "phone": "Telefone"
+    },
+    "privacy":{
+        "seo": {
+            "title": "Política de Privacidade do ZMOT Institute. Respeitamos você",
+            "description": "ZMOT Institute segue os melhores padrões mundiais em privacidade de dados. Entenda mais como tratamos e respeitamos suas privacidade"
+        },
+        "intro":{
+            "title": "Política de Privacidade de zmotinstitute.com",
+            "text_1": "Em zmotinstitute.com, acessível em zmotinstitute.com, uma das nossas principais prioridades é a privacidade de nossos usuários. Este documento de Política de Privacidade contém tipos de informações que são coletadas e registradas por zmotinstitute.com e como as usamos.",
+            "text_2": "Se você tiver perguntas adicionais ou precisar de mais informações sobre nossa Política de Privacidade, não hesite em entrar em contato.",
+            "text_3": "Esta Política de Privacidade se aplica apenas às nossas atividades online e é válida para os usuários de nosso website no que diz respeito às informações que eles compartilharam e / ou foi coletada em zmotinstitute.com. Esta política não se aplica a nenhuma informação  coletada offline ou por meio de outros canais que não este site." 
+        },
+        "consent":{
+            "title": "Consentimento",
+            "text_1": "Ao usar nosso website, você concorda com nossa Política de Privacidade e concorda com seus termos."
+        },
+        "collected_info": {
+            "title": "Informações Coletadas",
+            "text_1": "As informações pessoais que você deve fornecer e os motivos pelos quais você deve fornecê-las serão esclarecidos quando solicitarmos que você forneça suas informações pessoais.",
+            "text_2": "Se você nos contatar diretamente, poderemos receber informações adicionais sobre você, como seu nome, endereço de e-mail, número de telefone, o conteúdo da mensagem e / ou anexos que você pode nos enviar e qualquer outra informação que você decida fornecer.",
+            "text_3": "Quando você se registra para uma conta, podemos solicitar suas informações de contato, incluindo itens como nome, nome da empresa, endereço, endereço de e-mail e número de telefone."
+        },
+        "used_info": {
+            "title": "Utilização dos Dados",
+            "text_1": "Utilizamos os dados que coletamos de algumas formas, incluindo:",
+            "ul_1": "Fornecer, operar e manter seu site;",
+            "ul_2": "Melhorar, personalizar e expandir nosso site;",
+            "ul_3": "Entender e analisar como você usa nosso site;",
+            "ul_4": "Desenvolver novos produtos, serviços, recursos e funcionalidades;",
+            "ul_5": "Comunicar-nos com você, diretamente ou por meio de um de nossos parceiros, inclusive para atendimento ao cliente, para lhe fornecer atualizações e outras informações relacionadas ao website, e para fins de marketing e promocionais;",
+            "ul_6": "Enviar emails;",
+            "ul_7": "Descobrir e mitigar fraudes."
+        },
+        "log_files": {
+            "title": "Arquivos de Log",
+            "text_1": "zmotinstitute.com segue um procedimento padrão de uso de arquivos de log. Esses arquivos registram os usuários quando eles visitam o site. Todas as empresas de hospedagem fazem isso e fazem parte da análise dos serviços de hospedagem. As informações coletadas pelos arquivos de log incluem endereços de protocolo de Internet (IP), tipo de navegador, provedor de serviços de Internet (ISP), registros de data e hora, páginas de entrada / saída e possivelmente o número de cliques. Eles não estão vinculados a nenhuma informação de identificação pessoal. O objetivo das informações é analisar tendências, administrar o site, rastrear o movimento dos usuários no site e coletar informações demográficas."
+        },
+        "cookies": {
+            "title": "Cookies and Web Beacons",
+            "text_1": "Como qualquer outro site, zmotinstitute.com usa 'cookies'. Esses cookies são usados para armazenar informações, incluindo as preferências dos usuários e as páginas do site que o visitante acessou ou visitou. As informações são usadas para otimizar a experiência dos usuários, personalizando o conteúdo da nossa página da web com base no tipo de navegador dos visitantes e / ou outras informações.",
+            "text_2": "Para obter mais informações gerais sobre cookies, pesquise 'O que são cookies' em qualquer motor de busca como google.com.br."   
+        },
+        "doubleclick": {
+            "title": "Google DoubleClick DART Cookie",
+            "text_1": "O Google é um fornecedor terceirizado em nosso site. Ele também usa cookies, conhecidos como cookies DART, para exibir anúncios aos usuários do nosso site com base em sua visita a www.zmotinstitute.com e outros sites na Internet. No entanto, os usuários podem optar por recusar o uso de cookies DART visitando o anúncio do Google e a Política de privacidade da rede de conteúdo no seguinte URL - https://policies.google.com/technologies/ads?hl=pt-BR."
+        },
+        "advertising_partners": {
+            "title": "Parceiros de Anúncios",
+            "text_1": "Alguns anunciantes em nosso site podem usar cookies e web beacons. Nossos parceiros de publicidade estão listados abaixo. Cada um de nossos parceiros de publicidade tem sua própria Política de Privacidade para suas políticas de dados do usuário. Para facilitar o acesso, criamos um hiperlink para suas Políticas de Privacidade abaixo.",
+            "text_2": "Google - https://policies.google.com/technologies/ads?hl=pt-BR."
+        },
+        "advertising_partners_policy": {
+            "title": "Políticas de Privacidade de Parceiros de Anúncios",
+            "text_1": "Você pode consultar esta lista para encontrar a Política de Privacidade de cada um dos parceiros de publicidade do zmotinstitute.com.",
+            "text_2": "Servidores de anúncios de terceiros ou redes de anúncios usam tecnologias como cookies, JavaScript ou Web Beacons que são usados em seus respectivos anúncios e links que aparecem no zmotinstitute.com, que são enviados diretamente para o navegador dos usuários. Eles recebem automaticamente o seu endereço IP quando isso ocorre. Essas tecnologias são usadas para medir a eficácia de suas campanhas publicitárias e / ou para personalizar o conteúdo publicitário que você vê nos sites que visita.",
+            "text_3": "Observe que zmotinstitute.com não tem acesso ou controle sobre esses cookies que são usados por anunciantes terceiros."
+        },
+        "3rd_partners_policy": {
+            "title": "Política de Privacidade de Terceiros",
+            "text_1": "A Política de Privacidade do zmotinstitute.com não se aplica a outros anunciantes ou sites. Assim, aconselhamos você a consultar as respectivas Políticas de Privacidade desses servidores de anúncios de terceiros para obter informações mais detalhadas. Pode incluir suas práticas e instruções sobre como cancelar certas opções.",
+            "text_2": "Você pode optar por desabilitar os cookies por meio das opções individuais do navegador. Para saber informações mais detalhadas sobre o gerenciamento de cookies em navegadores web específicos, elas podem ser encontradas nos respectivos sites dos navegadores."
+        },
+        "ccpa_privacy": {
+            "title": "Privacidade de Dados CCPA (Proibição Venda de Dados Pessoais)",
+            "text_1": "De acordo com a CCPA, entre outros direitos, os consumidores da Califórnia têm o direito de:",
+            "text_2": "Solicite que uma empresa que coleta dados pessoais de um consumidor divulgue as categorias e partes específicas de dados pessoais que uma empresa coletou sobre os consumidores.",
+            "text_3": "Solicite que uma empresa exclua todos os dados pessoais sobre o consumidor que uma empresa coletou.",
+            "text_4": "Solicite que uma empresa que vende dados pessoais de um consumidor, não venda os dados pessoais do consumidor.",
+            "text_5": "Se você fizer uma solicitação, temos um mês para responder a você. Se você deseja exercer algum desses direitos, entre em contato conosco."
+        },
+        "gdpr_privacy": {
+            "title": "Lei de Proteção de Dados GDPR",
+            "text_1": "Gostaríamos de ter certeza de que você está totalmente ciente de todos os seus direitos de proteção de dados. Cada usuário tem direito ao seguinte:",
+            "text_2": "O direito de acesso - você tem o direito de solicitar cópias de seus dados pessoais. Podemos cobrar uma pequena taxa por este serviço.",
+            "text_3": "O direito de retificação - você tem o direito de solicitar que corrijamos qualquer informação que você acredite ser imprecisa. Você também tem o direito de solicitar que completemos as informações que você acredita estar incompletas.",
+            "text_4": "O direito de apagamento - Você tem o direito de solicitar o apagamento de seus dados pessoais, sob certas condições.",
+            "text_5": "O direito de restringir o processamento - Você tem o direito de solicitar que restrinjamos o processamento de seus dados pessoais, sob certas condições.",
+            "text_6": "O direito de se opor ao processamento - Você tem o direito de se opor ao nosso processamento de seus dados pessoais, sob certas condições.",
+            "text_7": "O direito à portabilidade dos dados - Você tem o direito de solicitar a transferência dos dados que coletamos para outra organização ou diretamente para você, sob certas condições.",
+            "text_8": "Se você fizer uma solicitação, temos um mês para responder a você. Se você deseja exercer algum desses direitos, entre em contato conosco."
+        },
+        "children": {
+            "title": "Informações sobre Menores de Idade",
+            "text_1": "Outra parte de nossa prioridade é adicionar proteção para menores de idade enquanto usam a internet. Incentivamos os pais e responsáveis a observar, participar e / ou monitorar e orientar suas atividades online.",
+            "text_2": "zmotinstitute.com não coleta intencionalmente qualquer informação pessoal identificável de crianças menores de 13 anos. Se você acha que seu filho forneceu este tipo de informação em nosso site, nós o encorajamos fortemente a nos contatar imediatamente e nós faremos nosso melhor para remover imediatamente tais informações de nossos registros."
+        }
+    }
+}

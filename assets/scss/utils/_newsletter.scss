@@ -1,0 +1,49 @@
+@import 'variable';
+
+section.news-letter {
+    padding: 5rem 0;
+    background-color: $light_orange;
+    color: $mat_purple;
+    h2 {
+        color: $mat_orange;
+    }
+    p {
+        color: #333 !important;
+    }
+
+    .search-form {
+        position: relative;
+        input {
+            border-radius: 100px;
+            padding: 1.5rem;
+            outline: 0;
+        }
+        button {
+            position: absolute;
+            right: 0;
+            top: 0;
+            padding: 0.83rem 2rem;
+            border-radius: 100px;
+            background-color: $news_purple;
+            border: 0;
+            outline: 0;
+            font-size: 1em;
+        }
+
+        button.browser-show {
+            display: block;
+
+            @media screen and (max-width: 475px){
+                display: none;
+            }
+        }
+
+        button.mobile-show {
+            display: none;
+
+            @media screen and (max-width: 475px){
+                display: block;
+            }
+        }
+    }
+}

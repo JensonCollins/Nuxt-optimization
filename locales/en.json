@@ -1,0 +1,264 @@
+{
+    "navs": {
+        "home": {"title": "HOME", "link": "/"},
+        "blog": {"title": "BLOG", "link": "blog"},
+        "contact": {"title": "CONTACT US", "link": "contact"},
+        "privacy": {"title": "PRIVACY POLICY", "link": "privacy"}
+    },
+    "homepage": {
+        "seo": {
+            "title": "Learn ZMOT and Hack Consumer Behavior with Digital Marketing",
+            "description": "If you want to understand how to Influence Consumer Behavior and skyrocket your Digital Marketing results you must Learn ZMOT Framework."
+        },
+        "banner": {
+            "header": "ZMOT:   the   key   to   Digital   Transformation",
+            "text": "A Framework to Hack Consumer Behavior with Digital Marketing"
+        },
+        "why_do_you_need_ZMOT": {
+            "header": "Why do you need ZMOT?",
+            "text1": "Understanding your ",
+            "text2": "Consumer Behavior",
+            "text3": " and helping them to achieve their goals during the ",
+            "text4": "Customer Journey",
+            "text5": " should be your top priority. As a marketer or entrepreneur, once you master some principles you'll have a way more effective communication.",
+            "category_1_header": "Relevance",
+            "category_1_text": "The modern consumer uses Google as the main tool to search for informations about products, prices and other people opinions. According Statcounter, 92% of all searches worldwide are performed through Google Search. To rank #1 should be your obsession, as you'll be present in the exactly moment people are interested in your product or service.",
+            "category_2_header": "Reviews",
+            "category_2_text": "Online Reviews are the new Word of Mount. Because of internet it spreads faster, and to much more people. Digital Word of Mount is a one-to-million conversation rather than one-to-one as before. The experience of other people influences your decision to buy, or not to buy.",
+            "category_3_header": "Mobile",
+            "category_3_text": "Consumers have full control, they find and share information in their own way and time. Smartphones are our daily tool for connectivity, productivity, entertainment, and guess what, for shopping. If you do not have a lightning fast loading, and mobile friendly website, you're no one."
+        },
+        "specialist": {
+            "header": "The Experts",
+            "text": "ZMOT is a real BIG thing. Take a look at what leading experts in Digital Marketing have been talking about, and why you should start using it as well.",
+            "slide_1_text": "Consumers search the information on the Internet before buying",
+            "slide_2_text": "That's how consumers live, learn and make decisions today",
+            "slide_3_text": "Digital Marketing is about delivering the right content at the right time",
+            "slide_4_text": "No matter what you do you can do it cheaper, faster and more efficiently on the web",
+            "slide_5_text": "Our jobs as marketers are to understand how the customer wants to buy and help them"
+        },
+        "services": {
+            "header": "How can we help you?",
+            "sub_header": "We are here to help you to understand ZMOT and implement it to your day to day game. No matter the size of your pocket, or time availability, we will always have a solution to help you.",
+            "service_1_header": "ZMOT Audit",
+            "service_1_description": "Are you interested about ZMOT and Consumer Behavior but have no idea how to start? Or maybe just need an expert opinion to speed things up? Just let us know your website and we'll surprise you with a masterplan to boost you Digital Business.",
+            "service_1_landing_page": "http://zmotinstitute.rds.land/784a86fc1474a6d021aa",
+            "service_2_header": "Lectures & Events",
+            "service_2_description": "Wish to delight your audience with innovative & dynamic content that will make people clap standing? Our storytelling performance based presentations drive people to action & results you could have considered impossible before.",
+            "service_2_landing_page": "http://zmotinstitute.rds.land/palestras-e-eventos",
+            "service_3_header": "Online courses",
+            "service_3_description": "Learn best in class ZMOT with experts which have helped their organizations to achieve amazing results. With our online courses you can learn and implement ZMOT at your own and flexible pace, but also do it over and over again. You have full control of your learning process.",
+            "service_3_landing_page": "http://zmotinstitute.rds.land/cursos-online",
+            "get_a_quote": "Get in Touch"
+        },
+        "what_say": {
+            "header": "Reviews on ZMOT INSTITUTE",
+            "text": "Take a look at what real life people who got in contact with us have to say about what they have learned.",
+            "talking_1": "Thank you for sharing this content with the community. From now on I will pay more attention to what was exposed in the text.",
+            "talking_2": "Better to start implementing ZMOT as soon as possible ... Congratulations for sharing your knowledge and helping us to improve.",
+            "talking_3": "Very good content, thank you for sharing it."
+        },
+        "blog": {
+          "text": "Do you want to stay on track on ZMOT and Consumer Behavior, through exclusive and totally free content? Be sure to access our high-quality materials and full of practical tips on how to grow your business.",
+          "title_1": "",
+          "title_2": "",
+          "title_3": "",
+          "read_more": "Read More"
+        }
+    },
+    "contact": {
+        "seo": {
+            "title": "Get in touch with ZMOT Institute best in class experts",
+            "description": "Get in touch now! Let us know your thoughts and help you to implement ZMOT Framework. No matter the size of your pocket, there is always a solution."
+        },
+        "banner": {
+            "header": "Get in Touch With ZMOT Experts",
+            "text": "Email or Live Chat, you choose the best option to reach us.",
+            "button": {
+                "send_email": "Send Email",
+                "access_live_chat": "Access Live Chat"
+            }
+        },
+        "form": {
+            "send_email": "Send E-mail",
+            "contact": "Contact",
+            "text": "If you have any question or want to suggest something, please let us know. Do not wait and send us a message. ",
+            "Email": "Email",
+            "Name": "Name",
+            "Surename": "Surename"
+        }
+    },
+    "news_letter": {
+        "header": "Keep following ZMOT INSTITUTE",
+        "text": "Stay tuned for all the news about ZMOT, Consumer Behavior and Digital Marketing. Subscribe now to our montlhy Newsletter.",
+        "subscribe": "Subscribe to News",
+        "subscribe_ellipse": "Subscribe",
+        "placeholder": "Insert your email"
+    },
+    "cookie": {
+        "text_1": "We use cookies to provide our services and for analytics and marketing. To find out more about our use of cookies, please see our",
+        "text_2": "Privacy Policy.",
+        "text_3": "Click accept for the best user experience on our app.",
+        "link": "/privacy",
+        "accept": "Accept"
+    },
+    "footer": {
+        "text": "We are here to help you to understand consumers and grow your business.",
+        "services": {
+            "text": "Services"
+        },
+        "knowledge": {
+            "text": "Knowledge"
+        },
+        "legal": {
+            "text": "Legal"
+        },
+        "privacy_policy": {
+            "text": "Privacy Policy"
+        },
+        "blog": "Blog",
+        "newsletter": "Newsletter"
+    },
+    "blog": {
+        "seo": {
+            "title": "ZMOT Institute's Blog: Learn with Best in Class Experts",
+            "description": "This is the right place to learn all about ZMOT Framework and related topics regarding Consumer Behavior. Learn Now and Start to Boost your Business Results!"
+        },
+        "add_comment" : {
+            "title": "Add a Comment",
+            "info": "Your email address will not be published. Required fields are marked *",
+            "save": "Save my name, email, and website in this browser for the next time I comment",
+            "submit": "SUBMIT"
+        }
+    },
+    "zmot_audit": {
+        "seo": {
+            "title": "Hack Consumer Behavior with ZMOT. Designed by Google",
+            "description": "Understand your customer needs and deliver the right message at the right time. Hack people's behaviour with ZMOT and boost your business results."
+        },
+        "header": "Boost Your Resuts with ZMOT",
+        "text_1": "ZMOT is a Framework designed by Google to describe how people behave during the Buying Journey.",
+        "text_2": "Sucessful business understand their customer needs and solve their problems. Knowing how your consumer search for information, do comparisons, do bargain and make the purchase decision, you can send the right message, at the right time.",
+        "text_3": "ZMOT INSTITUTE experts will help you to track your consumer's digital footprints and create a masterplan with the most efficient Digital Marketing strategies used by the fastest growing companies in the world.",
+        "submit": "I Want To Get a Contact"
+    },
+    "lectures_events": {
+        "seo": {
+            "title": "Make your Event Outstand with a ZMOT Lecture",
+            "description": "Bring ZMOT to your event and delight your audience. Our +15 years of experience in event speaking will make people clap stand. Free for students."
+        },
+        "header": "Delight Your Audience with ZMOT",
+        "text_1": "Are you promoting an event about Business or Digital Marketing related themes? Need a high quality content to delight your audience?",
+        "text_2": "Whether in a classroom, event stage or online event, we can help people to learn and to implement ZMOT into their marketing stack and day to day game. Bringing together our +15 years of experience in event speaking with the relevance of ZMOT, your audience will thank you for a lifetime.",
+        "text_3": "No matter the size of your event, we have a solution for you. Lets preach ZMOT together!",
+        "submit": "I Want ZMOT In My Event"
+
+    },
+    "online_courses": {
+        "seo": {
+            "title": "ZMOT Online Course. Learn ZMOT in depth at your own pace",
+            "description": "Learn ZMOT online and be a Pro Marketer. Enroll our ZMOT Course and Get 1 hour of Mentoring for Free. You are under control of your time and knowledge"
+        },
+        "header": "Learn ZMOT At Your Own Pace",
+        "text_1": "Online Courses are the perfect solution if you want to learn in depth content, but is a busy person with a tight agenda.",
+        "text_2": "We have prepared a detailed hands on course about ZMOT, that will not only help you to learn the concepts, but also how to implement things, which tools to use and best practices the fastest growing companies in the world have been using.",
+        "text_3": "You will also have full access to our exclusive content, plus 1 hour mentoring virtual call with a ZMOT INSTITUTE expert. Push yourself towards the growth mindset.",
+        "submit": "Start To Learn ZMOT",
+        "thank_you_title": "Thank you for getting in touch! ",
+        "thank_you_message": "We appreciate your interest on ZMOT Institute. One of our colleagues will get back in touch with you soon!",
+        "failed": "Submit Error"
+    },
+    "placeholder": {
+      "email": "Email",
+      "name": "Name",
+      "surname": "Surname",
+      "phone": "Phone Number"
+    },
+
+    "privacy":{
+        "seo": {
+            "title": "ZMOT Institute Privacy Policy. We respect people's privacy",
+            "description": "ZMOT Institute complies with all the industry best in class privacy policies. Learn more about how we treat data and respect your privacy"
+        },
+        "intro":{
+            "title": "Privacy Policy for zmotinstitute.com",
+            "text_1": "At zmotinstitute.com, accessible from zmotinstitute.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by zmotinstitute.com and how we use it.",
+            "text_2": "If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.",
+            "text_3": "This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in zmotinstitute.com. This policy is not applicable to any information collected offline or via channels other than this website."
+        },
+        "consent":{
+            "title": "Consent",
+            "text_1": "By using our website, you hereby consent to our Privacy Policy and agree to its terms."
+        },
+        "collected_info": {
+            "title": "Information We Collect",
+            "text_1": "The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.",
+            "text_2": "If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.",
+            "text_3": "When you register for an Account, we may ask for your contact information, including items such as name, company name, address, email address, and telephone number."
+        },
+        "used_info": {
+            "title": "How we use your information",
+            "text_1": "We use the information we collect in various ways, including to:",
+            "ul_1": "Provide, operate, and maintain our webste;",
+            "ul_2": "Improve, personalize, and expand our webste;",
+            "ul_3": "Understand and analyze how you use our webste;",
+            "ul_4": "Develop new products, services, features, and functionality;",
+            "ul_5": "Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the webste, and for marketing and promotional purposes;",
+            "ul_6": "Send you emails;",
+            "ul_7": "Find and prevent fraud."
+        },
+        "log_files": {
+            "title": "Log Files",
+            "text_1": "zmotinstitute.com follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information."
+        },
+        "cookies": {
+            "title": "Cookies and Web Beacons",
+            "text_1": "Like any other website, zmotinstitute.com uses 'cookies'. These cookies are used to store information including visitors' preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users' experience by customizing our web page content based on visitors' browser type and/or other information.",
+            "text_2": "For more general information on cookies, please search 'What Are Cookies' on search engines as google.com."
+        },
+        "doubleclick": {
+            "title": "Google DoubleClick DART Cookie",
+            "text_1": "Google is one of a third-party vendor on our site. It also uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to www.website.com and other sites on the internet. However, visitors may choose to decline the use of DART cookies by visiting the Google ad and content network Privacy Policy at the following URL – https://policies.google.com/technologies/ads."
+        },
+        "advertising_partners": {
+            "title": "Our Advertising Partners",
+            "text_1": "Some of advertisers on our site may use cookies and web beacons. Our advertising partners are listed below. Each of our advertising partners has their own Privacy Policy for their policies on user data. For easier access, we hyperlinked to their Privacy Policies below.",
+            "text_2": "Google - https://policies.google.com/technologies/ads"
+        },
+        "advertising_partners_policy": {
+            "title": "Advertising Partners Privacy Policies",
+            "text_1": "You may consult this list to find the Privacy Policy for each of the advertising partners of zmotinstitute.com.",
+            "text_2": "Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on zmotinstitute.com, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.",
+            "text_3": "Note that zmotinstitute.com has no access to or control over these cookies that are used by third-party advertisers."
+        },
+        "3rd_partners_policy": {
+            "title": "Third Party Privacy Policies",
+            "text_1": "zmotinstitute.com's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.",
+            "text_2": "You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites."
+        },
+        "ccpa_privacy": {
+            "title": "CCPA Privacy Rights (Do Not Sell My Personal Information)",
+            "text_1": "Under the CCPA, among other rights, California consumers have the right to:",
+            "text_2": "Request that a business that collects a consumer's personal data disclose the categories and specific pieces of personal data that a business has collected about consumers.",
+            "text_3": "Request that a business delete any personal data about the consumer that a business has collected.",
+            "text_4": "Request that a business that sells a consumer's personal data, not sell the consumer's personal data.",
+            "text_5": "If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us."
+        },
+        "gdpr_privacy": {
+            "title": "GDPR Data Protection Rights",
+            "text_1": "We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:",
+            "text_2": "The right to access – You have the right to request copies of your personal data. We may charge you a small fee for this service.",
+            "text_3": "The right to rectification – You have the right to request that we correct any information you believe is inaccurate. You also have the right to request that we complete the information you believe is incomplete.",
+            "text_4": "The right to erasure – You have the right to request that we erase your personal data, under certain conditions.",
+            "text_5": "The right to restrict processing – You have the right to request that we restrict the processing of your personal data, under certain conditions.",
+            "text_6": "The right to object to processing – You have the right to object to our processing of your personal data, under certain conditions.",
+            "text_7": "The right to data portability – You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions.",
+            "text_8": "If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us."
+        },
+        "children": {
+            "title": "Children's Information",
+            "text_1": "Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.",
+            "text_2": "zmotinstitute.com does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records."
+        }
+    }
+}

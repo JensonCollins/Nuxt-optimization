@@ -1,0 +1,27 @@
+// LAYOUT
+
+@import "variable";
+
+// LAYOUT
+
+@import "layout/footer";
+@import "layout/header_menu";
+
+// PAGES
+
+@import "pages/homepage";
+@import "pages/blog";
+@import "pages/blogs";
+@import "pages/contact";
+@import "pages/zmot-audit";
+@import "pages/lectures-events";
+@import "pages/online-courses";
+@import "pages/privacy";
+
+// COMPONENTS
+
+@import "utils/newsletter";
+
+@import '~sweetalert2/src/variables';
+//$swal2-background: #990000;
+@import '~sweetalert2/src/sweetalert2';

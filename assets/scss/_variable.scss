@@ -1,0 +1,49 @@
+$mat_orange: #e46c38 !default;
+$light_orange: #fcdbc0 !default;
+$shinny_orange: #ff6600 !default;
+$mat_purple: #663ee6 !default;
+$light_purple: #f4f5ff !default;
+$shinny_purple: #6a41ff !default;
+$bg_orange: #f46322 !default;
+$news_purple: #6747c7 !default;
+
+$theme-colors: () !default;
+$theme-colors: map-merge(
+  (
+    'orange': $mat_orange,
+  ),
+  $theme-colors
+);
+
+.btn-outline-orange {
+    color: $mat_orange;
+    border-color: $mat_orange;
+    &:hover {
+        background-color: $mat_orange;
+        color: white;
+    }
+}
+.btn-orange {
+    background-color: $shinny_orange;
+    color: white;
+    &:hover {
+        background-color: $mat_orange;
+        color: white;
+    }
+}
+.btn-purple {
+    background-color: $shinny_purple;
+    color: white;
+    &:hover {
+        background-color: $mat_purple;
+        color: white;
+    }
+}
+.btn-white {
+    background-color: white;
+    color: $shinny_orange;
+    &:hover {
+        background-color: white;
+        color: $shinny_orange;
+    }
+}

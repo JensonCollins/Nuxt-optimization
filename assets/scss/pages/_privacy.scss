@@ -1,0 +1,28 @@
+@import 'variable';
+
+#privacy-policy-page{
+    padding-top: 5rem;
+    padding-bottom: 3rem;
+    margin: 5rem 0;
+
+    h1{
+        text-align: center;
+        padding-bottom: 2rem;
+    }
+    h2 {
+        padding-top: 1.5rem;
+        padding-bottom: 0.7rem;
+    }
+    p{
+        font-weight: 400;
+        text-align: justify;
+        font-size: 1.2rem;
+      }
+    ul{
+        list-style-type: circle;
+        list-style-position: outside;
+        font-weight: 400;
+        text-align: justify;
+        font-size: 1.2rem;
+    }  
+}
