@@ -39,11 +39,13 @@
                     </div>
                 </b-col>
                 <b-col md="6" class="d-none d-md-block d-sm-none">
-                  <picture>
-                    <source srcset="../assets/img/contact/contact_hero.webp" type="image/webp" />
-                    <source srcset="../assets/img/contact/contact_hero.png" type="image/png" />
-                    <b-img src="../assets/img/contact/contact_hero.webp" fluid alt="Contact Hero Image"></b-img>
-                  </picture>
+                  <b-img-lazy
+                    :src="require('~/assets/img/contact/contact_hero.png').src"
+                    :srcset="require('~/assets/img/contact/contact_hero.png').srcSet"
+                    :blank-src="require('~/assets/img/contact/contact_hero.png').placeholder"
+                    fluid
+                    alt="Contact Hero Image"
+                  />
                 </b-col>
             </b-row>
         </b-container>
